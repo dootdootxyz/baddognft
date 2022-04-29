@@ -1,5 +1,4 @@
 var ABI = [
-	[
 	{
 		"inputs": [
 			{
@@ -983,5 +982,4 @@ var ABI = [
 		"stateMutability": "view",
 		"type": "function"
 	}
-]
 ]
